@@ -1,1 +1,32 @@
-
+.container{
+	width:100;
+}
+.photo{
+	border:3px solid;
+	border-radius: 15px;
+	padding:10px;
+	width:150px;
+}
+body{
+	background-color:#f0f0f0;
+}
+name{
+	display:flex;
+	align-items:centre;
+}
+.profile{
+	display:flex;
+	align-item:centre;
+}
+Email{
+	display:flex;
+	align-items:centre;
+}
+.logo img{
+	width:20px;
+	height:20px;
+	padding-right:10px;
+}
+#knowledge{
+	width:50%;
+}
